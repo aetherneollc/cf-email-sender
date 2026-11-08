@@ -1,5 +1,5 @@
 name = "aetherneo-resend-mail"
-main = "src/index.js"
+main = "index.js"
 compatibility_date = "2026-11-08"
 
 [[send_email]]
